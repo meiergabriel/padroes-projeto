@@ -19,6 +19,5 @@ public class main {
         
         System.out.println("Detalhes da estrutura ");
         diretor.mostrarDetalhes();
-        System.out.println("IHAIDSHIAUHDH");
     }
 }
